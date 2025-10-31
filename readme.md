@@ -1,5 +1,8 @@
 # failed-interviews
 
+> _"We learn more from a failing system than from one that runs smoothly."_  
+> — adapted from Richard Feynman
+
 **failed-interviews** is a living archive of technical exercises, take-home tests, and whiteboard challenges that I didn’t pass — but chose to understand, refine, and document.
 
 Each folder represents a single interview challenge: a snapshot of a moment when my skills met a constraint, a design met a deadline, or an assumption met reality.  
